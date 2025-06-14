@@ -86,7 +86,7 @@ export function DiseaseCharts({ scope }: DiseaseChartsProps) {
             animated={true}
           />
           <img 
-            src="https://lovable-uploads.s3.amazonaws.com/821cf028-a6df-4257-bea2-b4ff6ddba86d.png" 
+            src="/lovable-uploads/75204e93-4ead-4bc7-9198-59feb48321bf.png" 
             alt="Classificação de Surtos" 
             className="absolute bottom-4 right-4 w-24 h-24 opacity-50"
           />
